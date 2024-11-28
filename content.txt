@@ -1,4 +1,4 @@
 redis:
-  host: dev.server.top
+  host: prod.server.top
   password: 123
   port: 6379
