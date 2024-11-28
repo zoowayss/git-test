@@ -1,0 +1,4 @@
+redis:
+  host: dev.server.top
+  password: 123
+  port: 6379
