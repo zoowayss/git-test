@@ -1,0 +1,4 @@
+redis:
+  host: local.service
+  password: 123
+  port: 6379
