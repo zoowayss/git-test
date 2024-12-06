@@ -1,4 +1,4 @@
 redis:
-  host: local.service
+  host: prod.service
   password: 123
   port: 6379
